@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asfandyarali.vercel.app/sitemap.xml
