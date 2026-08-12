@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="68" viewBox="0 0 68 68" role="img" aria-labelledby="title desc">
+  <title id="title">Asfand Yar Ali logo mark</title>
+  <desc id="desc">A gradient A monogram on a dark rounded square.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="0.48" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="65" height="65" rx="16" fill="#080c14" stroke="url(#g)" stroke-width="2"/>
+  <path d="M17 49 31.8 18h2.4L49 49h-8l-3.7-8.6H28.5L24.8 49H17Zm13.7-15.3h4.4L32.9 28l-2.2 5.7Z" fill="url(#g)"/>
+  <path d="M37.5 44.2h10.8" stroke="#06b6d4" stroke-width="2.4" stroke-linecap="round" opacity=".9"/>
+</svg>

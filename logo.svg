@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="68" viewBox="0 0 264 68" role="img" aria-labelledby="title desc">
+  <title id="title">Asfand Yar Ali</title>
+  <desc id="desc">Asfand Yar Ali personal developer logo</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="0.48" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="65" height="65" rx="16" fill="#080c14" stroke="url(#g)" stroke-width="2"/>
+  <path d="M17 49 31.8 18h2.4L49 49h-8l-3.7-8.6H28.5L24.8 49H17Zm13.7-15.3h4.4L32.9 28l-2.2 5.7Z" fill="url(#g)"/>
+  <path d="M37.5 44.2h10.8" stroke="#06b6d4" stroke-width="2.4" stroke-linecap="round" opacity=".9"/>
+  <text x="78" y="33" font-family="Space Grotesk,Arial,sans-serif" font-size="20" font-weight="700" fill="#e2e8f0">Asfand</text>
+  <text x="78" y="52" font-family="Plus Jakarta Sans,Arial,sans-serif" font-size="12.5" font-weight="600" letter-spacing="3.3" fill="#94a3b8">YAR ALI</text>
+  <path d="M78 59h128" stroke="url(#g)" stroke-width="2" stroke-linecap="round"/>
+</svg>

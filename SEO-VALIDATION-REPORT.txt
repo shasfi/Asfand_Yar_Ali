@@ -1,0 +1,21 @@
+SEO + Portfolio modification validation report
+==========================================
+[PASS] Canonical URL present
+[PASS] Index/follow robots present
+[PASS] Open Graph image present
+[PASS] Twitter image present
+[PASS] JSON-LD graph present
+[PASS] Single H1
+[PASS] Main landmark present
+[PASS] Laptop reveal present
+[PASS] Favicon SVG linked
+[PASS] Web manifest linked
+[PASS] AOS deferred
+[PASS] Sitemap points to canonical
+[PASS] Robots references sitemap
+
+Indexable URL inventory
+------------------------
+1. https://asfandyarali.vercel.app/  (single-page portfolio; section anchors are not separate pages)
+
+Important: Google ranking position cannot be guaranteed by code alone; indexing and ranking are determined by Google after crawling the live site.
